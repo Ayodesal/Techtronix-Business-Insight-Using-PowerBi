@@ -1,2 +1,2 @@
-# Techtronix-Business-Insight-Using-PowerBi
-A comprehensive Power BI report featuring a dashboard that encapsulates key findings on sales performance, customer insights, and profitability.
+# Techtronix-Business-Intelligence-Insight-Using-PowerBi
+This is a dynamic Power BI report featuring an interactive dashboard that provides detailed analysis of sales performance, customer behavior, and profitability trends. It leverages advanced data visualization to uncover actionable insights, enabling data-driven decisions. This report offers a clear snapshot of KPIs and performance metrics for strategic business planning.
